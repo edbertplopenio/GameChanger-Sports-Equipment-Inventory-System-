@@ -1,4 +1,4 @@
-# GameChanger: Sports Equipment Inventory Revolution 🏆🚀
+# GameChanger: Sports Equipment Inventory System 🏆🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
